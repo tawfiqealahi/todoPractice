@@ -1,4 +1,19 @@
 
+const textInput = document.getElementById('new-task');
+const addButton = document.getElementsByTagName('button');[0];
+const incompleteTasks = document.getElementById('incomplete-tasks');
+const completeTasks = document.getElementById('complete-tasks');
+
+// add new task
+addButton.addEventListener('click', function(){
+    if (task) {
+        const task = textInput.value;
+        
+
+    }
+} );
+
+
 
 
 
