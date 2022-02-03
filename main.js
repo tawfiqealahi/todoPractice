@@ -9,8 +9,11 @@ addButton.addEventListener('click', function(){
     if (task) {
         const task = textInput.value;
         
+        
     };
-} );
+
+}
+ );
 
 
 
